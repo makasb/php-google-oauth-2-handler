@@ -17,5 +17,6 @@
         "psr-4": {
             "makasb\\GoogleOAuth2Handler\\": "./src/"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
