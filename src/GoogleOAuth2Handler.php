@@ -1,6 +1,6 @@
 <?php
 
-namespace RapidWeb\GoogleOAuth2Handler;
+namespace makasb\GoogleOAuth2Handler;
 
 use GuzzleHttp\Psr7\Request;
 
