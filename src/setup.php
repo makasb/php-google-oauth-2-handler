@@ -6,7 +6,7 @@ if (file_exists(__DIR__.'/../vendor/autoload.php')) {
     require_once __DIR__.'/../../../../vendor/autoload.php';
 }
 
-use RapidWeb\GoogleOAuth2Handler\GoogleOAuth2Handler;
+use makasb\GoogleOAuth2Handler\GoogleOAuth2Handler;
 
 echo PHP_EOL;
 echo '*** PHP Google OAuth 2 Handler - Setup ***';
